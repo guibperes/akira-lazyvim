@@ -7,5 +7,6 @@ opt.number = true
 opt.relativenumber = false
 opt.linebreak = true
 opt.ruler = true
+opt.colorcolumn = "80,100"
 opt.wrap = true
 opt.spelllang = { "en", "pt_br" }
